@@ -1,8 +1,5 @@
 # React-Router-Task
 
-###
-
-<p align="left">My name is Prakash V S and I made a website which is based on react router which was designed by me using React. It's from the Guvi-Zen class Roadmap, specifically React- Day - 6 Task</p>
 
 ###
 
@@ -56,10 +53,6 @@
 
 <h2 align="left">Screen shoot</h2>
 
-###
-
-![image](https://github.com/Prakash-V-S/Guvi-Blog-Clone-ReactRouter/assets/141955456/93d9cfac-274b-4b87-bf82-9ad09e9ed480)
-
 
 ## React + Vite
 
@@ -86,7 +79,4 @@ Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-## Feedback
-
-If you have any feedback, please reach out to me at prakashvs.official@gmail.com
 
